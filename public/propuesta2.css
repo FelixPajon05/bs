@@ -1,0 +1,28 @@
+
+body {
+    background-color: #00305B;
+}
+
+.section-top {
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(79.43% 251.58% at 23.18% 73.07%,#0142a0 0,#0f133a 44.41%,#101034 56.43%,#141034 69.58%,#301436 100%,#411958 0);
+}
+
+.bg-transparent {
+    background: radial-gradient(79.43% 251.58% at 23.18% 73.07%,#0142a0 0,#0f133a 44.41%,#101034 56.43%,#141034 69.58%,#301436 100%,#411958 0);
+}
+
+.title-one {
+    background-color: #84CC16;
+    color: aliceblue;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+#excellence-img {
+    height: 35rem;
+}
